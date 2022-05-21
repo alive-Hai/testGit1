@@ -3,7 +3,7 @@ public class Controller {
 
     }
 
-    public void t11(){
+    public void t2(){
         System.out.println("f11");
         System.out.println("f1111");
     }
