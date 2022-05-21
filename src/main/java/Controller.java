@@ -6,4 +6,10 @@ public class Controller {
     public void t3(){
         System.out.println("f12233");
     }
+
+    public void t2(){
+        System.out.println("f11");
+        System.out.println("f1111");
+    }
+
 }
