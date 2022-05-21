@@ -4,6 +4,6 @@ public class Controller {
     }
 
     public void t3(){
-        System.out.println("f1");
+        System.out.println("f12233");
     }
 }
