@@ -7,7 +7,7 @@ public class TortoiseRabbitRacer implements Runnable {
     @Override
     public void run() {
         for (int steps = 0; steps <= 100; steps++) {
-            System.out.println(Thread.currentThread().getName() + "  steps=" + steps);
+            System.out.println(Thread.currentThread().getName() + "  stepssssssssss=" + steps);
             boolean flag = gameOver(steps);
             if(flag){
                 break;
