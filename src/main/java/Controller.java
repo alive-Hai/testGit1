@@ -10,6 +10,7 @@ public class Controller {
     public void t2(){
         System.out.println("f11");
         System.out.println("f1111");
+        System.out.println("f1111");
     }
 
 }
